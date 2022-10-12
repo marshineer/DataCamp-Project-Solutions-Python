@@ -1,7 +1,10 @@
 #A Visual History of Nobel Prize Winners
 
 ##Project Description
-A statistical analysis of Nobel Prize winners and the associated demographic trends. The first part of the notebook comes from the forked repo. There is a clearly marked point where my analysis begins. This project was undertaken to practice using git in a more systematic manner, as well as to gain practical experience in data analysis techniques. 
+A statistical analysis of Nobel Prize winners and the associated demographic trends.
+
+##Contribution
+Added a curve showing the average life expectancy to the age of Nobel laureates plots. The project is mainly undertaken to pracitce using git in a more systematic manner.
 
 ##Setup
 Python version 3.9.7
