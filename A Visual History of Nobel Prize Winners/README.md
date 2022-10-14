@@ -4,7 +4,7 @@
 A statistical analysis of Nobel Prize winners and the associated demographic trends.
 
 ## Contribution
-Added a curve showing the average life expectancy to the age of Nobel laureates plots. The project is mainly undertaken to pracitce using git in a more systematic manner.
+Added a curve showing the average life expectancy to the age of Nobel laureates plots (data from https://www.lifetable.de/). The project is mainly undertaken to pracitce using git in a more systematic manner.
 
 ## Setup
 Python version 3.9.7
